@@ -1,0 +1,5 @@
+ActionEvent 위치, 부모
+public void actionPerformed(ActionEvent e); // Action 이벤트 발생시 호출됨, 인터페이스라 abstract 없음
+actionPerformed (추상메소드)
+
+이벤트리스너는 주로 익명클래스로(anonymous) 작성함
