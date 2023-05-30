@@ -1,0 +1,19 @@
+C:\Program Files\Java\jre1.8.0_351 에 파일 넣기
+프로젝트에서 build path -> configure build path
+-> add external -> 파일선택 후 적용
+
+
+db 들어가서 순서
+create database sampledb;
+
+use sampledb; 
+
+create table    studenttbl (
+	id     char(7) primary key, 
+    name   varchar(10),
+    dept   varchar(20) 
+);
+
+insert into values
+
+select * from studenttbl; 
